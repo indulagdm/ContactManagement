@@ -1,2 +1,2 @@
 # ContactManagement
-This web app use for contact management. and it's simple application for anyone who as learn using authentication, authorization this may be a helpful for you.
+Backend (nodejs, express and mongoose) for contact management. This code segment help for learn anthorization, jwt authenctication, hashing password, partition of each users contact details and admin can access all the things of this management system.
